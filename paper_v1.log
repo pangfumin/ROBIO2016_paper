@@ -1,0 +1,483 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.3.19)  26 NOV 2016 19:34
+entering extended mode
+**./paper_v1.tex
+(paper_v1.tex
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9n> and hyphenation patterns for 69 languages loaded.
+(ieeeconf.cls
+Document Class: ieeeconf 2016/4/23 revision V1.6b by Pradeep Misra
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 794.
+
+("E:\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+\@IEEEnormalsizefontbaselineskip=\skip41
+
+-- This is a 10 point document.
+\normalsizebaselineskip=\skip42
+\normaljot=\skip43
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <16> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1113.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 1113.
+
+\IEEEilabelindentA=\dimen104
+\IEEEilabelindentB=\dimen105
+\IEEEilabelindent=\dimen106
+\IEEEelabelindent=\dimen107
+\IEEEdlabelindent=\dimen108
+\labelindent=\dimen109
+\IEEEiednormlabelsep=\dimen110
+\IEEEiedmathlabelsep=\dimen111
+\IEEEiedtopsep=\skip44
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip45
+\belowcaptionskip=\skip46
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen112
+\c@biography=\count90
+\@IEEEtranrubishbin=\box26
+)
+** ATTENTION: Overriding command lockouts (line 7).
+** ATTENTION: Overriding IEEE standard margins (line 10).
+("E:\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("E:\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("E:\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
+
+("E:\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("E:\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 94.
+
+("E:\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("E:\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("E:\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+("E:\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+("E:\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("E:\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks16
+\ex@=\dimen115
+))
+("E:\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen116
+)
+("E:\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks17
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks18
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks19
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("E:\MiKTeX 2.9\tex\latex\tools\bm.sty"
+Package: bm 2014/10/28 v1.1c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+("E:\MiKTeX 2.9\tex\latex\leftidx\leftidx.sty"
+Package: leftidx 2003/09/24 v1.03 Left indices
+)
+("E:\MiKTeX 2.9\tex\latex\tools\hhline.sty"
+Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
+)
+("E:\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen124
+)
+("E:\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+("E:\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+("E:\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+("E:\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+("E:\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+("E:\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+("E:\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+("E:\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("E:\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("E:\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+("E:\MiKTeX 2.9\tex\latex\cite\cite.sty"
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+) (paper_v1.aux
+
+LaTeX Warning: Label `figurelabel' multiply defined.
+
+
+LaTeX Warning: Label `figurelabel' multiply defined.
+
+
+LaTeX Warning: Label `figurelabel' multiply defined.
+
+
+LaTeX Warning: Label `figurelabel' multiply defined.
+
+
+LaTeX Warning: Label `figurelabel' multiply defined.
+
+)
+\openout1 = `paper_v1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+ ("E:\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count104
+\scratchdimen=\dimen125
+\scratchbox=\box29
+\nofMPsegments=\count105
+\nofMParguments=\count106
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count107
+\MPscratchDim=\dimen126
+\MPnumerator=\count108
+\makeMPintoPDFobject=\count109
+\everyMPtoPDFconversion=\toks22
+)
+Underfull \hbox (badness 1629) in paragraph at lines 69--70
+\OT1/ptm/m/n/10 cat-e-gories: loosely-coupled meth-ods and tightly-coupled
+ []
+
+[1{C:/Users/pang/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+<frames2.png, id=9, 380.17032pt x 312.41719pt>
+File: frames2.png Graphic file (type png)
+ <use frames2.png>
+Package pdftex.def Info: frames2.png used on input line 118.
+(pdftex.def)             Requested size: 190.08469pt x 156.2082pt.
+ [2 <./frames2.png>] [3] <sample.jpg, id=31, 326.72063pt x 280.04625pt>
+File: sample.jpg Graphic file (type jpg)
+ <use sample.jpg>
+Package pdftex.def Info: sample.jpg used on input line 344.
+(pdftex.def)             Requested size: 228.70287pt x 196.03102pt.
+
+[4 <./sample.jpg>]
+Package epstopdf Info: Source file: <position_error.eps>
+(epstopdf)                    date: 2016-07-31 11:49:39
+(epstopdf)                    size: 429624 bytes
+(epstopdf)             Output file: <position_error-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-31 11:50:21
+(epstopdf)                    size: 155233 bytes
+(epstopdf)             Command: <epstopdf --outfile=position_error-eps-converte
+d-to.pdf position_error.eps>
+(epstopdf)             \includegraphics on input line 414.
+Package epstopdf Info: Output file is already uptodate.
+
+<position_error-eps-converted-to.pdf, id=36, 421.575pt x 316.18124pt>
+File: position_error-eps-converted-to.pdf Graphic file (type pdf)
+
+<use position_error-eps-converted-to.pdf>
+Package pdftex.def Info: position_error-eps-converted-to.pdf used on input line
+ 414.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+Package epstopdf Info: Source file: <orientation_error.eps>
+(epstopdf)                    date: 2016-07-31 00:42:58
+(epstopdf)                    size: 428651 bytes
+(epstopdf)             Output file: <orientation_error-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-31 00:47:56
+(epstopdf)                    size: 154740 bytes
+(epstopdf)             Command: <epstopdf --outfile=orientation_error-eps-conve
+rted-to.pdf orientation_error.eps>
+(epstopdf)             \includegraphics on input line 423.
+Package epstopdf Info: Output file is already uptodate.
+
+<orientation_error-eps-converted-to.pdf, id=37, 421.575pt x 316.18124pt>
+File: orientation_error-eps-converted-to.pdf Graphic file (type pdf)
+
+<use orientation_error-eps-converted-to.pdf>
+Package pdftex.def Info: orientation_error-eps-converted-to.pdf used on input l
+ine 423.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+Package epstopdf Info: Source file: <3axis.eps>
+(epstopdf)                    date: 2016-07-23 22:26:51
+(epstopdf)                    size: 439716 bytes
+(epstopdf)             Output file: <3axis-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-23 22:28:22
+(epstopdf)                    size: 162629 bytes
+(epstopdf)             Command: <epstopdf --outfile=3axis-eps-converted-to.pdf 
+3axis.eps>
+(epstopdf)             \includegraphics on input line 431.
+Package epstopdf Info: Output file is already uptodate.
+
+<3axis-eps-converted-to.pdf, id=38, 1021.8175pt x 264.99pt>
+File: 3axis-eps-converted-to.pdf Graphic file (type pdf)
+
+<use 3axis-eps-converted-to.pdf>
+Package pdftex.def Info: 3axis-eps-converted-to.pdf used on input line 431.
+(pdftex.def)             Requested size: 505.89pt x 131.19269pt.
+ [5 <./position_error-eps-converted-to.pdf> <./orientation_error-eps-converted-
+to.pdf>]
+Package epstopdf Info: Source file: <trans.eps>
+(epstopdf)                    date: 2016-07-24 00:51:17
+(epstopdf)                    size: 414627 bytes
+(epstopdf)             Output file: <trans-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-24 01:08:30
+(epstopdf)                    size: 24366 bytes
+(epstopdf)             Command: <epstopdf --outfile=trans-eps-converted-to.pdf 
+trans.eps>
+(epstopdf)             \includegraphics on input line 464.
+Package epstopdf Info: Output file is already uptodate.
+
+<trans-eps-converted-to.pdf, id=51, 421.575pt x 316.18124pt>
+File: trans-eps-converted-to.pdf Graphic file (type pdf)
+
+<use trans-eps-converted-to.pdf>
+Package pdftex.def Info: trans-eps-converted-to.pdf used on input line 464.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+Package epstopdf Info: Source file: <rot.eps>
+(epstopdf)                    date: 2016-07-24 01:07:14
+(epstopdf)                    size: 414301 bytes
+(epstopdf)             Output file: <rot-eps-converted-to.pdf>
+(epstopdf)                    date: 2016-07-24 01:09:37
+(epstopdf)                    size: 23625 bytes
+(epstopdf)             Command: <epstopdf --outfile=rot-eps-converted-to.pdf ro
+t.eps>
+(epstopdf)             \includegraphics on input line 473.
+Package epstopdf Info: Output file is already uptodate.
+
+<rot-eps-converted-to.pdf, id=52, 421.575pt x 316.18124pt>
+File: rot-eps-converted-to.pdf Graphic file (type pdf)
+
+<use rot-eps-converted-to.pdf>
+Package pdftex.def Info: rot-eps-converted-to.pdf used on input line 473.
+(pdftex.def)             Requested size: 210.78697pt x 158.09023pt.
+ (paper_v1.bbl
+Missing character: There is no â in font ptmr7t!
+Missing character: There is no € in font ptmr7t!
+Missing character: There is no ” in font ptmr7t!
+
+Overfull \vbox (336.63315pt too high) has occurred while \output is active []
+
+
+[6 <./3axis-eps-converted-to.pdf> <./trans-eps-converted-to.pdf> <./rot-eps-con
+verted-to.pdf>]
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no € in font ptmri7t!
+Missing character: There is no ™ in font ptmri7t!
+Missing character: There is no â in font ptmri7t!
+Missing character: There is no € in font ptmri7t!
+Missing character: There is no ™ in font ptmri7t!
+
+Overfull \hbox (17.83981pt too wide) in paragraph at lines 117--123
+\OT1/ptm/m/n/8 http://ijr.sagepub.com/content/early/2016/01/21/0278364915620033
+.abstract 
+ []
+
+)
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the US letter (8.5in X 11in) paper size.
+
+[7] (paper_v1.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2962 strings out of 493634
+ 42071 string characters out of 3149417
+ 123180 words of memory out of 3000000
+ 6283 multiletter control sequences out of 15000+200000
+ 45979 words of font info for 93 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 42i,21n,29p,1719b,296s stack positions out of 5000i,500n,10000p,200000b,50000s
+{E:/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<E:/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cmextra/cmbsy7.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mbx10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><E:/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmmi10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><
+E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><E:/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmmi8.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mmib10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmmib5.pfb><E:/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb><E:/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmr10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmr5.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><E:/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy5.pfb><E:/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><E:/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy7.pfb><E:/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8
+.pfb><E:/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><E:/MiKTeX 2.9/fonts/type1
+/urw/times/utmbi8a.pfb><E:/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><E:/MiKT
+eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on paper_v1.pdf (7 pages, 952094 bytes).
+PDF statistics:
+ 145 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+

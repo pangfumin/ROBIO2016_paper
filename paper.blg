@@ -1,0 +1,28 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: paper.aux
+The style file: IEEEtran.bst
+Database file #1: robio.bib
+Repeated entry---line 134 of file robio.bib
+ : @article{leutenegger2015keyframe
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 145 of file robio.bib
+ : @article{jones2011visual
+ :                         ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 189 of file robio.bib
+ : @article{li2013high
+ :                    ,
+I'm skipping whatever remains of this entry
+You're missing a field part---line 254 of file robio.bib
+ :  title = 
+ :          ,
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.11 (2003/04/02) by Michael Shell.
+-- http://www.ctan.org/tex-archive/macros/latex/contrib/supported/IEEEtran/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in li2014visual
+Warning--empty title in opencv_library
+Warning--empty year in opencv_library
+
+Done.
+(There were 4 error messages)
